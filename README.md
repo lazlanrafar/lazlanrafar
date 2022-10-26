@@ -1,6 +1,6 @@
 <img src="https://media.tenor.com/mKTS5nbF1zcAAAAM/cute-anime-dancing.gif">
 
-``` javascript
+```
 console.log('Hello Word');
 ```
 
