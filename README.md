@@ -1,4 +1,6 @@
-### Hi there 👋
+``` javascript
+console.log('Hello Word');
+```
 
 <img src="https://media.tenor.com/mKTS5nbF1zcAAAAM/cute-anime-dancing.gif">
 
