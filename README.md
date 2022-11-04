@@ -1,4 +1,4 @@
-<img width='150' src="https://i.redd.it/a47kehfpj7t91.gif">
+<img width='300' src="https://i.redd.it/a47kehfpj7t91.gif">
 
 ``` js
 console.log('Hello Word');
