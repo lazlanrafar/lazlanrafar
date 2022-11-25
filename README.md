@@ -1,4 +1,4 @@
-<img width='300' src="https://i.redd.it/a47kehfpj7t91.gif">
+<img src="https://media.tenor.com/mKTS5nbF1zcAAAAM/cute-anime-dancing.gif">
 
 ``` js
 console.log('Hello Word');
