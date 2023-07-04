@@ -1,4 +1,4 @@
-<img width='170' src="https://media.tenor.com/H4IRhFj2vToAAAAd/bon-clay-one-piece.gif">
+<img width='300' src="https://media.tenor.com/H4IRhFj2vToAAAAd/bon-clay-one-piece.gif">
 
 ``` js
 console.log('Hello Word');
