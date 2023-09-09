@@ -1,7 +1,7 @@
 <img width='300' src="https://media.tenor.com/H4IRhFj2vToAAAAd/bon-clay-one-piece.gif">
 
 ``` js
-console.log('Hello Word');
+console.log('Hello Word !!');
 ```
 
 Hi i'm L Azlan Rafar, a web Developer based in Indonesia. I describe myself as a passionate developer who loves coding, open source, and the web platform.
