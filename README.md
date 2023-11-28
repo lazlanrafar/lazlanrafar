@@ -1,4 +1,4 @@
-<img width='150' src="https://media.tenor.com/0wn47hJvgBUAAAAd/anime.gif">
+<img width='200' src="https://media.tenor.com/0wn47hJvgBUAAAAd/anime.gif">
 
 ``` js
 console.log('Hello Word !!');
