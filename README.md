@@ -1,4 +1,4 @@
-<img width='250' src="https://i.imgur.com/TnBhkgG.gif">
+<img width='200' src="https://i.imgur.com/TnBhkgG.gif">
 
 ``` js
 console.log('Hello Word !!');
