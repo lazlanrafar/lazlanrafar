@@ -1,4 +1,4 @@
-<img width='200' src="https://miro.medium.com/v2/resize:fit:679/1*OAXivevUVDA6ddtq-7jwVw.gif">
+<img width='250' src="https://i.imgur.com/TnBhkgG.gif">
 
 ``` js
 console.log('Hello Word !!');
