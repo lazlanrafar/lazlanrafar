@@ -1,5 +1,3 @@
-// <img width='200' src="https://media1.tenor.com/m/JvXZkOB5cnwAAAAd/monalisa-bedoge.gif">
-
 ``` js
 console.log('Hello Word !!');
 ```
